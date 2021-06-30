@@ -222,6 +222,12 @@ img{
     justify-content: center;
     align-items: center;
 }
+#tres-pontos:hover{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #caixa-texto{
     background-color: #1C1E21;
     height: 40%;
